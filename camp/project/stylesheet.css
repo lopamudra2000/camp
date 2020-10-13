@@ -1,0 +1,72 @@
+/*.bg-light{
+  background:transparent;
+}*/
+body{
+  font-family: 'Anton', sans-serif;
+
+}
+.section1{
+  min-height:100vh;
+}
+.section2{
+  min-height:100vh;
+}
+.section3{
+  min-height:100vh;
+}
+.section4{
+  min-height:100vh;
+}
+.section5{
+  min-height:50vh;
+  padding-top: 20px;
+}
+.section1::before{
+
+  min-height:50vh;
+  padding-top: 20px;
+}
+.section2::before{
+
+  min-height:50vh;
+  padding-top: 20px;
+}
+.landingRow{
+  display:flex;
+  min-height:100vh;
+}
+.headerRow{
+  position:absolute;
+  top:20vh;
+}
+.campizoHeader{
+  font-size:4em;
+}
+.red{
+  font-style: unset;
+  color: maroon;
+}
+.commentsheader{
+  color: rgb(226, 120, 138);
+}
+.downloadAppLink{
+  text-decoration:none;
+  color:white;
+}
+
+.downloadAppLink:hover{
+  text-decoration:none;
+  color:white;
+}
+.btn-download{
+  width:250px;
+  height:50px;
+  border-radius:0;
+}
+.card{
+  width: 307px;
+  height: 460px;
+}
+.design{
+  font-family: 'Architects Daughter', cursive;
+}
